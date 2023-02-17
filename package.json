@@ -1,0 +1,23 @@
+{
+    "name": "mapty-udemy",
+    "version": "1.0.0",
+    "description": "Workout register and track on map",
+    "main": "script.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html --dist-dir ./dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jdcruz83/mapty-udemy.git"
+    },
+    "author": "Jorge Cruz (jdcruz83)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jdcruz83/mapty-udemy/issues"
+    },
+    "homepage": "https://github.com/jdcruz83/mapty-udemy#readme",
+    "devDependencies": {
+        "parcel": "^2.8.3"
+    }
+}
